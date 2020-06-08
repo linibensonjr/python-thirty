@@ -6,10 +6,10 @@ I'll be updating this read me as each day passes and the commit messages will ha
 To help me follow a consistent approach on the topics, I found [Learn Python](https://www.learnpython.org) - a website that uses samples from DataCamp.
 
 - [x] Day 1 - 04/06/2020
-- [ ] Missed -05/06/2020
+- [ ] Missed- 05/06/2020
 - [x] Day 2 - 06/06/2020
-- [ ] Day 3
-- [ ] Day 4
+- [x] Day 3 - 07/06/2020
+- [x] Day 4 - 08/06/2020
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
