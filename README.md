@@ -11,7 +11,8 @@ To help me follow a consistent approach on the topics, I found [Learn Python](ht
 - [x] Day 3 - 07/06/2020
 - [x] Day 4 - 08/06/2020
 - [x] Day 5 - 09/06/2020
-- [ ] Day 6
+- [ ] Missed- 10/06/2020
+- [x] Day 6 - 11/06/2020
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
