@@ -13,7 +13,14 @@ To help me follow a consistent approach on the topics, I found [Learn Python](ht
 - [x] Day 5 - 09/06/2020
 - [ ] Missed- 10/06/2020
 - [x] Day 6 - 11/06/2020
-- [ ] Day 7
+- [ ] Missed- 12/06/2020
+- [ ] Missed- 13/06/2020
+- [ ] Missed- 14/06/2020
+- [ ] Missed- 15/06/2020
+- [ ] Missed- 16/06/2020
+- [ ] Missed- 17/06/2020
+- [ ] Missed- 18/06/2020
+- [x] Day 7 - 19/06/2020
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
