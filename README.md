@@ -45,3 +45,8 @@ To help me follow a consistent approach on the topics, I found [Learn Python](ht
 - [ ] Day 29
 - [ ] Day 30
 - [ ] Finale
+
+# RESET PROGRESS
+## January 2021
+
+- [x] Day 1 - 12/01/2021
