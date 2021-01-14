@@ -51,3 +51,4 @@ To help me follow a consistent approach on the topics, I found [Learn Python](ht
 
 - [x] Day 1 - 12/01/2021
 - [x] Day 2 - 13/01/2021
+- [x] Day 3 - 14/01/2021
